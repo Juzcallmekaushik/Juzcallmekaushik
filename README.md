@@ -9,9 +9,9 @@
 
 ## 📫 How to Contact Me?
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Discord](https://img.shields.io/badge/Discord-738abd?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-BB001b?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
-[![Web](https://img.shields.io/badge/Portfolio-524f6e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
+[![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
+[![Web](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
 
 ## Tech Stack
 
