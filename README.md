@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=a4a1bf&width=555&lines=Hi+there!+👋,+I'm+Kaushik+Reddy;Welcome+to+my+Github+profile+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=807da0&width=555&lines=Hi+there!+👋,+I'm+Kaushik+Reddy;Welcome+to+my+Github+profile+!!" />
 
 ## I'm a Fullstack Developer & Graphic Designer
 
@@ -8,23 +8,23 @@
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
-[![Web](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
+[![Instagram](https://img.shields.io/badge/Instagram-38336e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Discord](https://img.shields.io/badge/Discord-38336e?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-38336e?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
+[![Web](https://img.shields.io/badge/Portfolio-38336e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
 
 ## Tech Stack
 
 #### Frameworks and Languages
-[![Node.JS](https://img.shields.io/badge/Node.js-6082B6?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-![React](https://img.shields.io/badge/react-6082B6.svg?style=for-the-badge&logo=react&logoColor=white)
-[![HTML](https://img.shields.io/badge/HTML-6082B6?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/CSS-6082B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-6082B6?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-![Firebase](https://img.shields.io/badge/Typescript-6082B6?style=for-the-badge&logo=typescript&logoColor=white) 
-[![Python](https://img.shields.io/badge/Python-6082B6?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
-![Next.JS](https://img.shields.io/badge/next.js-6082B6.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-6082B6.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Node.JS](https://img.shields.io/badge/Node.js-807da0?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+![React](https://img.shields.io/badge/react-807da0.svg?style=for-the-badge&logo=react&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-807da0?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-807da0?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-807da0?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+![Firebase](https://img.shields.io/badge/Typescript-807da0?style=for-the-badge&logo=typescript&logoColor=white) 
+[![Python](https://img.shields.io/badge/Python-807da0?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
+![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### OS and Cloud Services
 [![Android](https://img.shields.io/badge/Android-097969?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
