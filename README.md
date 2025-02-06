@@ -4,7 +4,7 @@
 
 - 🌱 Experienced in Python, HTML, CSS, JavaScript, Node.js, and TypeScript.
 - 🏆 Building Augmented Learning System
-- 🤖 Coding and refining a sleek AI Desktop Assistant 
+- 🤖 Coding and refining a full-fledged Desktop Assistant
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
@@ -39,3 +39,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-ffffff?style=for-the-badge&&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-ffffff?style=for-the-badge&logoColor=2C2255)
+
+## Project Pins
+
+[![ALS - Voice-Controlled Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Juzcallmekaushik&repo=Augmented-Learning-System&bg_color=2f2f2f&text_color=ffffff&icon_color=ffffff)](https://github.com/Juzcallmekaushik/Augmented-Learning-System)
+[![Minimalistic Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Juzcallmekaushik&repo=kaushikreddy.me&bg_color=2f2f2f&text_color=ffffff&icon_color=ffffff)](https://github.com/Juzcallmekaushik/kaushikreddy.me)
+[![r-igcse-bot](https://github-readme-stats.vercel.app/api/pin/?username=Juzcallmekaushik&repo=r-igcse-bot&bg_color=2f2f2f&text_color=ffffff&icon_color=ffffff)](https://github.com/Sachin-dot-py/r-igcse-bot)
+[![r-IGCSEBot](https://github-readme-stats.vercel.app/api/pin/?username=Juzcallmekaushik&repo=r-IGCSEBot&bg_color=2f2f2f&text_color=ffffff&icon_color=ffffff)](https://github.com/fyre-0/r-IGCSEBot)
