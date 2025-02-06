@@ -3,8 +3,8 @@
 ## I'm a Fullstack Developer & Graphic Designer
 
 - 🌱 Experienced in Python, HTML, CSS, JavaScript, Node.js, and TypeScript.
-- 🏆 Building a Minimalistic Portfolio.
-- 🤖 Coding and refining a sleek portfolio design.
+- 🏆 Building Augmented Learning System
+- 🤖 Coding and refining a sleek AI Desktop Assistant 
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
