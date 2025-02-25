@@ -2,7 +2,7 @@
 
 ## I'm a Fullstack Developer & Graphic Designer
 
-- 🌱 Experienced in Python, HTML, CSS, JavaScript, Node.js, and TypeScript.
+- 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, React and TypeScript.
 - 🏆 Building Augmented Learning System
 - 🤖 Coding and refining a full-fledged Desktop Assistant
 - 👦🏻 Pronouns: He/Him.
