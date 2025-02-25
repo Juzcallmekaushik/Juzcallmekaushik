@@ -3,8 +3,8 @@
 ## I'm a Fullstack Developer & Graphic Designer
 
 - 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, React and TypeScript.
-- 🏆 Building Augmented Learning System
-- 🤖 Coding and refining a full-fledged Desktop Assistant
+- 🏆 Building AceTrack
+- 🤖 Coding and refining a full-fledged Attendance Application
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
