@@ -29,7 +29,7 @@
 
 #### OS and Cloud Services
 [![Android](https://img.shields.io/badge/Android-097969?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![Windows](https://img.shields.io/badge/Windows-097969?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
+[![Windows](https://img.shields.io/badge/Windows-097969?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com/windows)
 [![GitHub Codespaces](https://img.shields.io/badge/github%20codespaces-097969?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/codespaces)
 [![Linux](https://img.shields.io/badge/linux-097969?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.linux.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-097969?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.linux.org/)
