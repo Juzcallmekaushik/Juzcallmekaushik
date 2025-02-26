@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=aee1c0&width=555&lines=Hi+there!+👋,+I'm+Kaushik+Reddy;Welcome+to+my+Github+profile+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=250&duration=2000&color=aee1c0&width=555&lines=Hi+there!+👋,+I'm+Kaushik+Reddy;Welcome+to+my+Github+Profile+!!" />
 
 ## I'm a Fullstack Developer & Graphic Designer
 
