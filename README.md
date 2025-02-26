@@ -23,8 +23,8 @@
 ![Firebase](https://img.shields.io/badge/Typescript-807da0?style=for-the-badge&logo=typescript&logoColor=white) 
 [![Python](https://img.shields.io/badge/Python-807da0?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
 [![Flutter](https://img.shields.io/badge/Flutter-807da0?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 
 #### OS and Cloud Services
 [![Android](https://img.shields.io/badge/Android-097969?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
@@ -38,6 +38,6 @@
 #### Browsers and IDE
 [![Arc Browser](https://img.shields.io/badge/Arc_Browser-ffffff?style=for-the-badge&logo=arcbrowser&logoColor=white)](https://arc.net)
 [![Polypane](https://img.shields.io/badge/Polypane-ffffff?style=for-the-badge&logo=polypane&logoColor=white)](https://polypane.app)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-ffffff?style=for-the-badge&&logoColor=ffffff)
-![Eclipse](https://img.shields.io/badge/-Eclipse-ffffff?style=for-the-badge&logoColor=2C2255)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![IntelliJ](https://img.shields.io/badge/-IntelliJ-ffffff?style=for-the-badge&&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-ffffff?style=for-the-badge&logoColor=2C2255)](https://www.eclipse.org/)
