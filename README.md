@@ -9,7 +9,7 @@
 ## 📫 How to Contact Me?
 [![Instagram](https://img.shields.io/badge/Instagram-38336e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 [![Discord](https://img.shields.io/badge/Discord-38336e?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-38336e?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-38336e?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=kaushikreddy1206@gmail.com&tf=cm)
 [![Web](https://img.shields.io/badge/Portfolio-38336e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
 
 ## Tech Stack
