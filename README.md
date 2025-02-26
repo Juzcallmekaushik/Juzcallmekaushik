@@ -23,6 +23,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-807da0?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 ![Firebase](https://img.shields.io/badge/Typescript-807da0?style=for-the-badge&logo=typescript&logoColor=white) 
 [![Python](https://img.shields.io/badge/Python-807da0?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
+[![Flutter](https://img.shields.io/badge/Flutter-807da0?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 ![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -32,6 +33,8 @@
 [![GitHub Codespaces](https://img.shields.io/badge/github%20codespaces-097969?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/codespaces)
 [![Linux](https://img.shields.io/badge/linux-097969?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.linux.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-097969?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.linux.org/)
+[![Firebase](https://img.shields.io/badge/firebase-097969?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-097969?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 #### Browsers and IDE
 [![Arc Browser](https://img.shields.io/badge/Arc_Browser-ffffff?style=for-the-badge&logo=arcbrowser&logoColor=white)](https://arc.net)
