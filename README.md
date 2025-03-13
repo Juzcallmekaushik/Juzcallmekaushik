@@ -40,4 +40,4 @@
 [![Polypane](https://img.shields.io/badge/Polypane-ffffff?style=for-the-badge&logo=polypane&logoColor=white)](https://polypane.app)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ-ffffff?style=for-the-badge&&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![Eclipse](https://img.shields.io/badge/-Eclipse-ffffff?style=for-the-badge&logoColor=2C2255)](https://www.eclipse.org/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-ffffff?style=for-the-badge&logoColor=2C2255)](https://www.eclipse.org/)   
