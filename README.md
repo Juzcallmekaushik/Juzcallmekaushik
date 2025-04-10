@@ -3,7 +3,7 @@
 ## I'm a Fullstack Developer & Graphic Designer
 
 - 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, React and TypeScript.
-- 🏆 Building AceTrac, a full-fledged Attendance Application.
+- 🏆 Building VAM, a full-fledged Attendance Application.
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
@@ -20,9 +20,8 @@
 [![HTML](https://img.shields.io/badge/HTML-807da0?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-807da0?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-807da0?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-![Firebase](https://img.shields.io/badge/Typescript-807da0?style=for-the-badge&logo=typescript&logoColor=white) 
-[![Python](https://img.shields.io/badge/Python-807da0?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
-[![Flutter](https://img.shields.io/badge/Flutter-807da0?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+![TypeScript](https://img.shields.io/badge/Typescript-807da0?style=for-the-badge&logo=typescript&logoColor=white) 
+[![React Native](https://img.shields.io/badge/React_Native-807da0?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
 [![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 
