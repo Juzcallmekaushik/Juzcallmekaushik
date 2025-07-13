@@ -3,7 +3,6 @@
 ## I'm a Fullstack Developer & Graphic Designer
 
 - 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, React and TypeScript.
-- 🏆 Building VAM, a full-fledged Attendance Application.
 - 👦🏻 Pronouns: He/Him.
 
 ## 📫 How to Contact Me?
