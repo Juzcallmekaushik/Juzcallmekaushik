@@ -2,8 +2,8 @@
 
 ## I'm a Fullstack Developer & Graphic Designer
 
-- 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, React and TypeScript.
 - 👦🏻 Pronouns: He/Him.
+- 🌱 Experienced in Python, HTML, CSS, Next.js, JavaScript, TypeScript, React & Remix.
 
 ## 📫 How to Contact Me?
 [![Instagram](https://img.shields.io/badge/Instagram-38336e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juzcallmekaushik/)
