@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## Fullstack Developer • UI/UX Designer • AI Enthusiast
 
 - 👦🏻 Pronouns: He/Him
