@@ -24,6 +24,7 @@
 [![Next.JS](https://img.shields.io/badge/next.js-807da0.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Figma](https://img.shields.io/badge/figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Remix](https://img.shields.io/badge/remix-807da0.svg?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
+[![C#](https://img.shields.io/badge/C%23-807da0.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 #### OS and Cloud Services
 [![Android](https://img.shields.io/badge/Android-097969?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
