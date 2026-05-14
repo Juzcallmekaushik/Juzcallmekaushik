@@ -12,16 +12,12 @@
 - 🎨 Passionate about building aesthetic and user-focused digital experiences
 - ⚡ Currently working on AI-powered projects and creative web experiences
 
----
-
 ## 📫 How to Contact Me?
 
 [![Instagram](https://img.shields.io/badge/Instagram-38336e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sincerely.kauu/)
 [![Discord](https://img.shields.io/badge/Discord-38336e?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838682557976936509)
 [![Email](https://img.shields.io/badge/Email-38336e?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=kaushikreddy1206@gmail.com&tf=cm)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38336e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushikreddy.me)
-
----
 
 # 💻 Tech Stack
 
@@ -40,15 +36,11 @@
 [![C#](https://img.shields.io/badge/C%23-807da0.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-807da0?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 
----
-
 ## 🎨 Design & Creative Tools
 
 [![Figma](https://img.shields.io/badge/Figma-807da0.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-807da0?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![SCSS](https://img.shields.io/badge/SCSS-807da0?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-
----
 
 ## ☁️ Databases, Cloud & Backend
 
@@ -59,16 +51,12 @@
 [![MySQL](https://img.shields.io/badge/MySQL-097969?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Prisma](https://img.shields.io/badge/Prisma-097969?style=for-the-badge&logo=prisma&logoColor=white)](https://prisma.io)
 
----
-
 ## 🤖 AI & Machine Learning
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-807da0?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-807da0?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-807da0?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-807da0?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-
----
 
 ## 🖥️ Operating Systems & Cloud Services
 
@@ -80,8 +68,6 @@
 [![Vercel](https://img.shields.io/badge/Vercel-097969?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Netlify](https://img.shields.io/badge/Netlify-097969?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
 
----
-
 ## 🛠️ Browsers & IDEs
 
 [![Arc Browser](https://img.shields.io/badge/Arc_Browser-ffffff?style=for-the-badge&logo=arcbrowser&logoColor=black)](https://arc.net)
@@ -89,8 +75,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ffffff?style=for-the-badge&logo=intellijidea&logoColor=black)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-ffffff?style=for-the-badge&logo=eclipseide&logoColor=2C2255)](https://www.eclipse.org/)
-
----
 
 # 📊 GitHub Stats
 
@@ -102,8 +86,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 # 🐍 Contribution Snake
 
