@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=1000&color=AEE1C0&center=true&vCenter=true&width=700&lines=Hi+there!+👋,+I'm+Kaushik+Reddy;Fullstack+Developer;UI%2FUX+Designer;AI+Enthusiast;Building+cool+things+on+the+internet" />
 
@@ -115,7 +115,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### ✨ "Building cool things with code, creativity & chaos."
 
